@@ -13,7 +13,7 @@
 
         $host = "remotemysql.com";
         $dbusername = "lFRAvJZ37f";
-        $dbpass = "TiEd2VpnK9";
+        $dbpass = "aTUN52EImh";
         $dbname = "lFRAvJZ37f";
 
         //create connection
